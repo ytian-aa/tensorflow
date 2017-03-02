@@ -1,0 +1,25 @@
+# ignore some dirs
+build/
+captures/
+.gradle/
+gradle/
+gradleBuild/
+gradlew
+gradlew.bat
+
+# Local configuration file (sdk path, etc)
+local.properties
+gradle.properties
+
+
+# Intellij project files
+*.iml
+.idea/
+
+#Mac OS
+.DS_STORE
+
+*.pyc
+tools/result
+keystore.properties
+keystore/
